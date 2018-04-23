@@ -1,0 +1,10 @@
+上传到网站目录
+然后http://你的域名/player/m3u8.php?url=   接上m3u8文件地址
+然后http://你的域名/player/mp4.php?url=   接上mp4视频地址
+
+即可
+
+
+
+然后http://vip.luckydeer.cn/player/m3u8.php?url=   接上m3u8文件地址
+然后http://vip.luckydeer.cn/player/mp4.php?url=   接上mp4视频地址
